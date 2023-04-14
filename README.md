@@ -5,7 +5,7 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://
 
 | Rank | Project | Language | Score | Short summary |
 |:----:|:-------:|:--------:|:-----:|:-------------:|
-| 00 | [libft](https://github.com/cschm1ed/libft) | C | [![cschmied's 42 Libft Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/2911849)](https://github.com/JaeSeoKim/badge42) | Creating our own library using standard C functions and a few additional functions |
+| 00 | [libft](https://github.com/cschm1ed/libft-a-C-standard-library) | C | [![cschmied's 42 Libft Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/2911849)](https://github.com/JaeSeoKim/badge42) | Creating our own library using standard C functions and a few additional functions |
 | 01 | [printf](https://github.com/mdoll02/printf) | C | [![cschmied's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/2932613)](https://github.com/JaeSeoKim/badge42) | Replicating the C function printf |
 | 01 | [get_next_line](https://github.com/cschm1ed/get_next_line) | C | [![cschmied's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/2933547)](https://github.com/JaeSeoKim/badge42) | Creating a function that returns always one line from a given file descriptor |
 | 01 | Born2beroot | -- | [![cschmied's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/2940142)](https://github.com/JaeSeoKim/badge42) | Creating our first virtual machine using Debian |
