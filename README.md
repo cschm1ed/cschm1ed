@@ -15,7 +15,6 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://
 | 02 | [pipex](https://github.com/cschm1ed/pipex) | C | awaiting evaluation | simulating shell UNIX-pipes |
 | 03 | minishell | C | work in progress | coding a shell modeled after bash -- group project with [lspohle](https://github.com/lspohle) |
 | 03 | philosophers | C | work in progress | Introduction to multithreading -- solving the dining philosophers problem |
-| 04 | CPP00 | C++ | - | Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cschm1ed&show_icons=true&theme=vue-dark)
 
