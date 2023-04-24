@@ -13,7 +13,7 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://
 | 02 | [fract-ol](https://github.com/cschm1ed/fract-ol) | C | [![cschmied's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/2960363)](https://github.com/JaeSeoKim/badge42) | Getting to know the [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx) and displaying different fractal sets |
 | 02 | [push_swap](https://github.com/cschm1ed/push_swap) | C | [![cschmied's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/2974394)](https://github.com/JaeSeoKim/badge42) | Creating a program that displays actions that will sort a stack of integers |
 | 02 | [pipex](https://github.com/cschm1ed/pipex) | C | awaiting evaluation | simulating shell UNIX-pipes |
-| 03 | minishell | C | work in progress | coding a shell modeled after bash -- group project with [lspohle](https://github.com/lspohle) |
+| 03 | [minishell](https://github.com/cschm1ed/minishell | C | work in progress | coding a shell modeled after bash -- group project with [lspohle](https://github.com/lspohle) |
 | 03 | philosophers | C | work in progress | Introduction to multithreading -- solving the dining philosophers problem |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cschm1ed&show_icons=true&theme=vue-dark)
