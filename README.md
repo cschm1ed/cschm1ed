@@ -14,7 +14,7 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://
 | 02 | [push_swap](https://github.com/cschm1ed/push_swap) | C | [![cschmied's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/2974394)](https://github.com/JaeSeoKim/badge42) | Creating a program that displays actions that will sort a stack of integers |
 | 02 | [pipex](https://github.com/cschm1ed/pipex) | C | [![cschmied's 42 pipex Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3048988)](https://github.com/JaeSeoKim/badge42) | simulating shell UNIX-pipes |
 | 03 | [minishell](https://github.com/cschm1ed/minishell) | C | work in progress | coding a shell modeled after bash -- group project with [lspohle](https://github.com/lspohle) |
-| 03 | [philosophers](https://github.com/cschm1ed/philosohphers) | C | work in progress | Introduction to multithreading -- solving the dining philosophers problem |
+| 03 | [philosophers](https://github.com/cschm1ed/philosophers) | C | work in progress | Introduction to multithreading -- solving the dining philosophers problem |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cschm1ed&show_icons=true&theme=vue-dark)
 
