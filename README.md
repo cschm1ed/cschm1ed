@@ -17,6 +17,7 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://
 | 03 | [philosophers](https://github.com/cschm1ed/philosophers) | C | [![cschmied's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3073218)](https://github.com/JaeSeoKim/badge42) | Introduction to multithreading -- solving the dining philosophers problem |
 | 03 | Exam Rank 03 | C | [![cschmied's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3073253)](https://github.com/JaeSeoKim/badge42) | Exam containing tasks from get_next_line |
 | 04 | CPP00 | C++ | [![cschmied's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3126458)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cschm1ed&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cschm1ed)](https://github.com/anuraghazra/github-readme-stats)
