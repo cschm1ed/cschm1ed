@@ -16,7 +16,7 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://
 | 03 | [minishell](https://github.com/cschm1ed/minishell) | C | [![cschmied's 42 minishell Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3073219)](https://github.com/JaeSeoKim/badge42) | coding a shell modeled after bash -- group project with [lspohle](https://github.com/lspohle) |
 | 03 | [philosophers](https://github.com/cschm1ed/philosophers) | C | [![cschmied's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3073218)](https://github.com/JaeSeoKim/badge42) | Introduction to multithreading -- solving the dining philosophers problem |
 | 03 | Exam Rank 03 | C | [![cschmied's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3073253)](https://github.com/JaeSeoKim/badge42) | Exam containing tasks from get_next_line |
-| 04 | CPP00 | C++ | [![cschmied's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3126458)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
+| 04 | [CPP00](https://github.com/cschm1ed/CPP00) | C++ | [![cschmied's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3126458)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cschm1ed&show_icons=true&theme=vue-dark)
 
