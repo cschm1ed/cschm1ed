@@ -17,6 +17,14 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://
 | 03 | [philosophers](https://github.com/cschm1ed/philosophers) | C | [![cschmied's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3073218)](https://github.com/JaeSeoKim/badge42) | Introduction to multithreading -- solving the dining philosophers problem |
 | 03 | Exam Rank 03 | C | [![cschmied's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3073253)](https://github.com/JaeSeoKim/badge42) | Exam containing tasks from get_next_line |
 | 04 | [CPP00](https://github.com/cschm1ed/CPP00) | C++ | [![cschmied's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3126458)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
+| 04 | [CPP01](https://github.com/cschm1ed/CPP01) | C++ | [![cschmied's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3132177)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
+| 04 | [CPP02](https://github.com/cschm1ed/CPP02) | C++ | [![cschmied's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3154490)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
+| 04 | [CPP03](https://github.com/cschm1ed/CPP03) | C++ |  [![cschmied's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3154490)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
+| 04 | [CPP04](https://github.com/cschm1ed/CPP04) | C++ | [![cschmied's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3171699)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
+| 04 | [miniRT](https://github.com/cschm1ed/miniRT)  C | [![cschmied's 42 miniRT Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3132039)](https://github.com/JaeSeoKim/badge42) | Writing a Raytracer in C |
+| 04 | NetPractice | - | [![cschmied's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3129446)](https://github.com/JaeSeoKim/badge42) | Learning Communication Protocols and configuring networks |
+| 04 | Exam Rank 04 | C | [![cschmied's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3132178)](https://github.com/JaeSeoKim/badge42) | Coding a basic shell |
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cschm1ed&show_icons=true&theme=vue-dark)
 
