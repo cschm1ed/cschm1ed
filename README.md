@@ -21,7 +21,7 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://
 | 04 | [CPP02](https://github.com/cschm1ed/CPP02) | C++ | [![cschmied's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3154490)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
 | 04 | [CPP03](https://github.com/cschm1ed/CPP03) | C++ |  [![cschmied's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3154490)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
 | 04 | [CPP04](https://github.com/cschm1ed/CPP04) | C++ | [![cschmied's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3171699)](https://github.com/JaeSeoKim/badge42) | Introduction to C++ and OOP |
-| 04 | [miniRT](https://github.com/cschm1ed/miniRT)  C | [![cschmied's 42 miniRT Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3132039)](https://github.com/JaeSeoKim/badge42) | Writing a Raytracer in C |
+| 04 | [miniRT](https://github.com/cschm1ed/miniRT) | C | [![cschmied's 42 miniRT Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3132039)](https://github.com/JaeSeoKim/badge42) | Writing a Raytracer in C |
 | 04 | NetPractice | - | [![cschmied's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3129446)](https://github.com/JaeSeoKim/badge42) | Learning Communication Protocols and configuring networks |
 | 04 | Exam Rank 04 | C | [![cschmied's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clcumlgqy00110fmc362jodo5/project/3132178)](https://github.com/JaeSeoKim/badge42) | Coding a basic shell |
 
